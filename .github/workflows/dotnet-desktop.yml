@@ -74,7 +74,7 @@ jobs:
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
-      run: msbuild Random Name Generator\Random Name Generator.csproj
+      run: msbuild "Random Name Generator\Random Name Generator.csproj"
     # Decode the base 64 encoded pfx and save the Signing_Certificate
     - name: Decode the pfx
       run: |
@@ -84,7 +84,7 @@ jobs:
 
     # Create the app package by building and packaging the Windows Application Packaging project
     - name: Create the app package
-      run: msbuild Random Name Generator\Random Name Generator.csproj
+      run: msbuild "Random Name Generator\Random Name Generator.csproj"
       env:
         Appx_Bundle: Always
         Appx_Bundle_Platforms: x86|x64
