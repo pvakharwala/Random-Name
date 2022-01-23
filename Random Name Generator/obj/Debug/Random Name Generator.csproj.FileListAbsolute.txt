@@ -1,0 +1,13 @@
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\bin\Debug\Random Name Generator.exe.config
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\bin\Debug\Random Name Generator.exe
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\bin\Debug\Random Name Generator.pdb
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random Name Generator.csproj.AssemblyReference.cache
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random Name Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random_Name_Generator.Form1.resources
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random_Name_Generator.Properties.Resources.resources
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random Name Generator.csproj.GenerateResource.cache
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random Name Generator.csproj.CoreCompileInputs.cache
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random Name Generator.exe
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\obj\Debug\Random Name Generator.pdb
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\bin\Debug\Properties\Firstname.txt
+C:\Users\pvakh\source\repos\RNG69420\Random Name Generator\bin\Debug\Properties\Lastname.txt
